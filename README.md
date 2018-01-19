@@ -1,2 +1,2 @@
 # machine-learning-study
-##this is my machine learning study notebook
+this is my machine learning study notebook
